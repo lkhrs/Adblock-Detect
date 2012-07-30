@@ -1,0 +1,24 @@
+#tester {
+display:none;
+}
+.no {
+background: #B60909;
+color: #F0F0F0 !important;
+width: 600px;
+margin: 3px auto 3px auto;
+padding: 7px;
+border-radius: 6px;
+border: 1px solid #960000;
+}
+.no a:link {
+color: #F0F0F0;
+}
+.no a:hover {
+text-decoration: underline;
+}
+.yes {
+padding: 3px;
+text-align: center;
+font-size: 10px;
+text-transform: uppercase;
+}

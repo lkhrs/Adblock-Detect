@@ -1,0 +1,1 @@
+document.write('<script type="text/javascript" src="http://enigmaboard.com/aa/advertisement.js"></script><script type="text/javascript" src="http://enigmaboard.com/aa/aadetect.js"></script><LINK REL=StyleSheet HREF="http://enigmaboard.com/aa/aa.css" TYPE="text/css" MEDIA=screen>');

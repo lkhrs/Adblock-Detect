@@ -1,7 +1,7 @@
 This is a set of scripts that will detect it when a user has enabled an adblocker and display a message.
 It will also display a message when you're not blocking ads, as a sort of thank-you. This can be removed if necessary.
 
-To install, just upload the files to your host, then include aa.js on section of the page you want this message to appear. I usually put this under the ad, but you can put it elsewhere.
+To install, just upload the files to your host, then include aa.js on the section of the page you want this message to appear. I usually put this under the ad, but you can put it elsewhere.
 
 You can style it using the aa.css stylesheet, and edit the message in aadetect.js.
 
